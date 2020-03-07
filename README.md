@@ -4,7 +4,7 @@
 # PurpleCity Dark Syntax theme
 
 Inline-style:
-![alt text](screenshot.png "PurpleCity")
+![alt text](screenshot.PNG "PurpleCity")
 
 
 ## Install
