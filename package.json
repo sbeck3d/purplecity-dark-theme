@@ -1,0 +1,16 @@
+{
+  "name": "purplecity-dark-theme",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "PurpleCity dark theme for Atom",
+  "keywords": [
+    "base16",
+    "dark",
+    "syntax"
+  ],
+  "repository": "https://github.com/sbeck3d/purplecity-dark-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.49.0"
+  }
+}
