@@ -1,9 +1,7 @@
 
 ---
 
-# Purple City Dark Syntax theme
-
-
+# PurpleCity Dark Syntax theme
 
 ## Install
 
