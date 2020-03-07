@@ -3,9 +3,14 @@
 
 # PurpleCity Dark Syntax theme
 
-Inline-style:
-![alt text](screenshot.png "PurpleCity")
+Java:
+![alt text](screenshot.PNG "PurpleCity Java")
 
+Python:
+![alt text](screenshot_python.PNG "PurpleCity Python")
+
+C#:
+![alt text](screenshot_cs.PNG "PurpleCity C#")
 
 ## Install
 
